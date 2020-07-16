@@ -1,0 +1,81 @@
+<style> 
+#post_list ul {
+	text-align: left;list-style: none;margin: 0em;padding: 0em;max-width: 100%;width: 100%;
+ 	
+ 	}
+#post_list ul li {
+	text-align: left;list-style: none;margin: 0em;padding: 0em;max-width: 100%;width: 100%;
+ 	
+ 	}
+
+.btn {
+display: inline-block;
+    margin-bottom: 0.25em;
+    padding: 0.5em 1em;
+    font-family: -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border-width: 0;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.btn--success {
+  background-color: #3fa63f;color: #fff !important;
+}
+.pad_size1 {
+  padding: 1em 1em 1em 1em;
+}
+.pad_size2 {
+  padding: 2em 2em 2em 2em;
+}
+.pad_top_down{
+      padding: 2em 0 2em 0;
+}
+
+.idxStyle{
+margin-left:0.3em;
+color:#000000;
+font-size: 2em;  
+}
+.idxStyle .redSy{
+margin-left:0.3em;
+color:red;
+font-size: 0.5em;  
+}
+.idxStyle .blueSy{
+margin-left:0.3em;
+color:blue;
+font-size: 0.5em;  
+}
+.idxStyle .category{
+float: right;
+font-size: 0.4em;
+margin-right: 0.4em;  
+}
+.idxMoneyStyle{
+margin-left:0.3em;
+color:#000000;
+font-size: 1em;  
+}
+.idxMoneyStyle .redSy{
+margin-left:0.3em;
+color:red;
+font-size: 0.7em;  
+}
+.idxMoneyStyle .blueSy{
+margin-left:0.3em;
+color:blue;
+font-size: 0.7em;  
+}
+.post_left{
+  text-align:left;
+}
+.idxBkImg{
+  background-color: #ffffff !important;
+}
+
+</style>
+
+ 

@@ -1,0 +1,56 @@
+
+title: askBrand
+description: 브랜드 상품 소개, 후기, 탐사, 코멧, Gomgom, 줌, 마케마케, 곰곰, 꼬리별, 베이스알파에센셜, 요놈, 비타할로, 비지엔젤, 타이니스타
+url: https://askbrand.github.io
+img: https://i.ibb.co/v3VkDHW/askbrand-logo.jpg
+
+
+permalink: ':title/'
+
+markdown: kramdown
+baseurl: "/"
+baseWord: "파트너스활동으로 작성자에게 일정액의 커미션이 제공될수 있습니다."
+full-version: "https://askbrand.github.io"
+
+sass:
+    style: compressed
+
+
+
+#optimization
+#compress.html
+compress_html:
+  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
+  comments: ["<!-- ", " -->"]
+  endings: [all]
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: []
+
+highlight: rouge
+
+
+# Tracker
+analytics: 
+
+# Comments
+disqus-shortname: https-askbrand-github-io
+
+# Contact form
+# Go to https://getsimpleform.com and get a API token by signing up with your email and enter that here
+api-token:   
+
+include: [_pages]
+# exclude:
+#   - _posts/
+#   - _posts/1/
+#   - _posts/2/
+ 
+
+version: 0.8
+
+paginate: 
+
+plugins: 

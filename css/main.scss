@@ -1,0 +1,43 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+/* Variables */
+@import "variables";
+
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+.main_text{
+    text-align: center;
+    padding-top: 2em;
+    font-size: 1em;
+}
+.index_text{
+    text-align: right;
+    padding-right: 1em;
+    font-size: 0.6em;
+}
+
+@import      
+        "base",
+        "style",
+        "custom",
+        "menu",
+        "syntax-highlighting",
+        "magnific-popup/settings",
+        "magnific-popup/magnific-popup"        
+;
+
+
+/* Core CSS */
+@import "base_mis";
+@import "mixins";
+@import "masthead";
+@import "navigation";
+@import "search";
+@import "page";
