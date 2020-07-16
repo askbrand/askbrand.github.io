@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 베이스알파에센셜 쿨러백, 그레이, 25L" 
+description: 쿠팡 브랜드 - 베이스알파에 ..
+date: 2020-07-16 21:39:52 
+img: https://static.coupangcdn.com/image/retail/images/665793033186797-6b5c4172-43aa-4083-ad3c-8f947cd47a1b.jpg 
+linkUrl: http://me2.do/xSj50j2a 
+categories: [1008] 
+color: F361A6 
+price: 10320 
+author: brandMaster 
+cont: 내구성도 좋아요 만원초반이라고 하기엔<br/>너무 좋은데요<br/>생각보다 엄청 많이들어가고<br/>어깨끈<br/>좋아요 이뻐요 편리해요 넉넉해요<br/> 
+---
+ 

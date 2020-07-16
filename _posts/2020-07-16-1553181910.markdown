@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 베이스알파 에센셜 남성용 스포츠 스니커즈 양말 10p, 화이트" 
+description: 쿠팡 브랜드 - 베이스알파  ..
+date: 2020-07-16 21:39:52 
+img: https://static.coupangcdn.com/image/retail/images/5881927131413-3b53f23a-68d5-494d-a93f-e10f99e67d21.jpg 
+linkUrl: http://me2.do/GCMQDMPC 
+categories: [1008] 
+color: FF6F00 
+price: 10260 
+author: brandMaster 
+cont: 만족해요 또 구매의사있습니다<br/> 
+---
+ 
