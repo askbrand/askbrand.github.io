@@ -19,6 +19,7 @@
 
 	<title>{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}</title>
 	<meta name="description" content="{% if page.cont %}{{ page.cont | replace: '<br/>', ' ' | truncate: 160 | escape}}{% else %} {{page.description}} - {{site.description}}{% endif %}">
+	<meta name="yandex-verification" content="6d357fbccccdc6d5" />
 
 
 
@@ -38,4 +39,5 @@
 	
 	
 	{% include google-search-scripts.html %}
+
 </head>
