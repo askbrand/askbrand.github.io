@@ -16,8 +16,5 @@ layout: null
 {{ post.sitemap.priority }}</priority>
 {% endif %} </url>
 {% endif %}
-{% if forloop.index > 5000 %}   
-	{% break %}	
-{% endif %}
 {% endfor %}
 </urlset>
