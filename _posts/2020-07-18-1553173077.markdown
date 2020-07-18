@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 코멧 머미형 사계절용 침낭 220 x 80cm, 스칼렛 레드, 1개" 
+description: 쿠팡 브랜드 - 코멧 머미형 ..
+date: 2020-07-18 17:15:11 
+img: https://static.coupangcdn.com/image/retail/images/10838602927394-2dcac610-769e-44ef-ab7c-5ea9a4b9858b.jpg 
+linkUrl: http://me2.do/FVUo7XJD 
+categories: [1002] 
+color: A6A6A6 
+price: 26150 
+author: brandMaster 
+cont: <br/> 좋아요<br/> 
+---
+ 
