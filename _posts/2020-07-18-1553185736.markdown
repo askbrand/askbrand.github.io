@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 코멧 스포츠 싱글 마사지볼 + 땅콩 마사지볼 세트, 퍼플, 1세트" 
+description: 쿠팡 브랜드 - 코멧 스포츠 ..
+date: 2020-07-18 14:15:11 
+img: https://static.coupangcdn.com/image/retail/images/1561121294666-39d58745-cd53-45c8-aebe-1167acb905f7.png 
+linkUrl: http://me2.do/xvuB3IX3 
+categories: [1002] 
+color: FF6F00 
+price: 10050 
+author: brandMaster 
+cont: <br/> 감사합니다<br/> 
+---
+ 
