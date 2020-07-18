@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 코멧 홈 대용량 베이직 모던 옥스퍼드 리빙박스 100L, 그레이, 2개" 
+description: 쿠팡 브랜드 - 코멧 홈 대 ..
+date: 2020-07-18 20:15:11 
+img: https://static.coupangcdn.com/image/retail/images/10225736937428-22498682-967e-4335-99f5-8fd5c4693f6a.jpg 
+linkUrl: http://me2.do/FBEheKlr 
+categories: [1002] 
+color: CF36BB 
+price: 15840 
+author: brandMaster 
+cont: <br/> 참잘했어요<br/> 
+---
+ 
