@@ -12,9 +12,19 @@ layout: compress
 <div id="post_list" class="pad_size1" style="font-size: 0.8em;">
 <p><h2>[NEW POST]</h2></p>	
 <span>
- {% for page in site.pages %}  
+{% for page in site.pages %}
+	{% if forloop.index >= 1 %}
+	<url>
+	<loc>{{ site.url }}{{ page.url }}</loc>	
+	{% if page.date != null %} <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>{% endif %}
+	<priority>0.5</priority> 	
+	</url>
+	{% endif %}
+
+{% endfor %}
+{% for page in site.pages %}
 	  {% if forloop.index <= 5 %}
-	    <a href="https://askbrand.github.io{{ page.url }}" class="pad_size1"> - {{ page.title }}</a><br>
+	    <a href="{{ site.url }}{{ page.url }}" class="pad_size1"> - {{ page.title }}</a><br>
 	  {% else %}
 	  	{% break %}
 	  {% endif %}
