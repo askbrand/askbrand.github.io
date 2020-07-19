@@ -2,11 +2,25 @@
 layout: null
 --- 
 <?xml version="1.0" encoding="UTF-8"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-   <sitemap>
-      <loc>https://askbrand.github.io/sitemap1.xml</loc>
-   </sitemap>
-   <sitemap>
-      <loc>https://askbrand.github.io/sitemap99.xml</loc>
-   </sitemap>   
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{% for post in site.posts %}
+{% if forloop.index >= 1 %}
+<url>
+<loc>{{ site.url }}{{ post.url }}</loc>
+<lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority> 
+</url>
+{% endif %}
+{% endfor %}
+{% for page in site.pages %}
+{% if forloop.index >= 1 %}
+<url>
+<loc>{{ site.url }}{{ page.url }}</loc>	
+{% if page.date != null %} <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>{% endif %}
+<changefreq>daily</changefreq>
+<priority>0.5</priority> 	
+</url>
+{% endif %}
+{% endfor %}
+</urlset>
