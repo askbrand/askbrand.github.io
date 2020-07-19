@@ -12,14 +12,14 @@ layout: null
 </url>
 {% endif %}
 {% endfor %}
-{% for post in site.posts %}
-{% if forloop.index >= 1 %}
-<url>
-<loc>{{ site.url }}{{ post.url }}</loc>
-<lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority> 
-</url>
-{% endif %}
+{% for page in site.pages %}
+	{% if forloop.index >= 1 %}
+	<url>
+	<loc>{{ site.url }}{{ page.url }}</loc>	
+	{% if page.date != null %} <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>{% endif %}
+	<changefreq>daily</changefreq>
+	<priority>0.5</priority> 	
+	</url>
+	{% endif %}
 {% endfor %}
 </urlset>
