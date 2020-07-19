@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "곰곰 김밥단무지, 400g, 1개" 
+description: 곰곰 김밥단무지, 400g, ..
+date: 2020-07-19 14:15:13 
+img: https://static.coupangcdn.com/image/retail/images/572291431057470-cc33eafc-b685-4e6c-bbcb-b2bc32c8ffbf.jpg 
+linkUrl: http://me2.do/5I4agrXX 
+categories: [1003] 
+color: 4A148C 
+price: 2350 
+author: brandMaster 
+cont: <br/> 간단한 한끼 든든함의 대명사 김밥 ㅎㅎ<br/>곰곰 김밥단무지<br/>곰곰 단무지,햄,당근으로 김밥 만들었어요<br/>곰곰 당근을 얇게 채 썰어서 소금간 살짝해서 볶고<br/>국내산 무로 만들었고<br/>국내산이라고 하니 재료에 믿음이 팍팍 들어요.<br/><br/>김밥에 빠질수 없는 재료하면 단무지!!<br/>김밥에 빠질수 없는건 바로 단무지 아니겠어요?<br/>김밥의 핵심재료인 단무지ㅎㅎ<br/>꼬마김밥으로 아침 메뉴부터 오늘 점심 도시락 까지 만들었답니다!<br/>꼬마김밥을 만들꺼라 단무지 하나 넣으면 짤수도 있으니<br/>꼬마김밥을 종종 만들어 먹는데요<br/>느끼하지 않고 담백하게 만들어 줍니당!!!<br/>느므느므 맛있어요<br/>단무지 없는 김밥은 앙꼬 없는 찐빵 같은거라는거<br/> 
+---
+ 
