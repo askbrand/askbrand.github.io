@@ -9,17 +9,26 @@ layout: compress
  <div class="search-content">
 	{% include search_form.html %}
 </div>
-<div id="post_list" class="pad_size1" style="font-size: 0.8em;">
-<p><h2>[NEW POST]</h2></p>	
-<span>
+<div id="container" style="text-align: left;">
 {% for page in site.pages %}
 	  {% if forloop.index <= 30 %}
-	  	{% if page.title != null %}  <a href="{{ site.url }}{{ page.url }}" class="pad_size1"> - {{ page.title }}</a><br>{% endif %}	   
+	  	{% if page.img != null %} 
+	  	 <a href="{{ site.url }}{{ page.url }}" class="pad_size1"> - </a><br>
+			<h3><b>{{ page.title }}</b></h3>
+			<div class="section">
+				<div class="figure">
+			    	<p><img alt="{{ page.title }}" class="scaled" src="{{ page.img }}"  ></p>
+			    	<p>{{ page.date }} </p>date
+				</div>	
+				<p>{{ page.description }}<p>
+			</div>
+			<hr/>
+	  	 {% endif %}	  
 	  {% else %}
 	  	{% break %}
 	  {% endif %}
   {% endfor %}
-</span>
+</div>
 </div>
 {% include footer.html %}
 </body>
