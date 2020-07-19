@@ -13,8 +13,7 @@ layout: compress
 {% for page in site.pages %}
 	  {% if forloop.index <= 30 %}
 	  	{% if page.img != null %} 
-	  	 <a href="{{ site.url }}{{ page.url }}" class="pad_size1"> - </a><br>
-			<h3><b>{{ page.title }}</b></h3>
+			<h3><b><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></b></h3>
 			<div class="section">
 				<div class="figure">
 			    	<p><img alt="{{ page.title }}" class="scaled" src="{{ page.img }}"  ></p>
