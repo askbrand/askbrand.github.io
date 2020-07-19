@@ -1,4 +1,4 @@
 ---
 layout: default_newpage
-permalink: /new/
+permalink: /newpost/
 ---
