@@ -7,7 +7,7 @@ layout: null
 {% if forloop.index >= 1 %}
 <url>
 <loc>{{ site.url }}{{ post.url }}</loc>
-{% if post.lastmod == null %} <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>{% endif %}
+<lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority> 
 {% endif %} 
