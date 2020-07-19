@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 꼬리별 프리미엄 고양이 두부모래 7L, 라벤더향, 6개" 
+description: 쿠팡 브랜드 - 꼬리별 프리 ..
+date: 2020-07-19 22:15:11 
+img: https://static.coupangcdn.com/image/retail/images/163467910630226-291f711d-7ad4-4ceb-a6c9-8f6a8421dcbd.jpg 
+linkUrl: http://me2.do/5O5VLa2D 
+categories: [1007] 
+color: CF36BB 
+price: 18930 
+author: brandMaster 
+cont: <br/> 색깔이 왜 이렇게요?<br/>쓰던 모래 입니다 적당적당 좋아요<br/>아주 좋습니다<br/> 
+---
+ 
