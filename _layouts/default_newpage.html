@@ -12,14 +12,18 @@ layout: compress
 <div id="container" style="text-align: left;">
 {% for page in site.pages %}
 	  {% if forloop.index <= 30 %}
-	  	{% if page.img != null %} 
-			<h3><b><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></b></h3>
+	  	{% if page.img != null %} 			
 			<div class="section">
 				<div class="figure">
-			    	<p><img alt="{{ page.title }}" class="scaled" src="{{ page.img }}"  ></p>
-			    	<p>{{ page.date }} </p>date
+			    	<a href="{{ site.url }}{{ page.url }}">
+			    		<p><img alt="{{ page.title }}" class="scaled" src="{{ page.img }}"  ></p>			    	
+			    	</a>
 				</div>	
-				<p>{{ page.description }}<p>
+				<a href="{{ site.url }}{{ page.url }}">
+					<p><h2><b>{{ page.title }}</b></h3></h2>
+					<p>{{ page.date }} </p>
+					<p>{{ page.description }}</p>
+				</a>
 			</div>
 			<hr/>
 	  	 {% endif %}	  
