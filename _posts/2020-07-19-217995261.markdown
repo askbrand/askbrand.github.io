@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "강순의명가 열무김치, 2kg, 1개" 
+description: 강순의명가 열무김치, 2kg ..
+date: 2020-07-19 17:56:48 
+img: https://static.coupangcdn.com/image/vendor_inventory/863a/5a7444694c675ae26aed3813da506035b022c02fcbf2dbe4d5908925f34b.jpg 
+linkUrl: http://me2.do/5rLpSjjx 
+categories: [] 
+color: FF1744 
+price: 15000 
+author: brandMaster 
+cont:  
+---
+ 

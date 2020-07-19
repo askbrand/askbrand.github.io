@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "강순의명가 갓김치, 3kg, 1개" 
+description: 강순의명가 갓김치, 3kg, ..
+date: 2020-07-19 17:56:48 
+img: https://static.coupangcdn.com/image/vendor_inventory/0056/bee5525b714cdfeec9b66dccfc69c48b7272ed580e126dfcabd6e96d2b19.jpg 
+linkUrl: http://me2.do/GEq9D3ch 
+categories: [] 
+color: 4A148C 
+price: 30000 
+author: brandMaster 
+cont:  
+---
+ 
