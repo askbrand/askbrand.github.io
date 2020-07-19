@@ -8,11 +8,8 @@ layout: null
 <url>
 <loc>{{ site.url }}{{ post.url }}</loc>
 <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
 {% endif %} 
 </url>
 {% endif %}
-
 {% endfor %}
 </urlset>
