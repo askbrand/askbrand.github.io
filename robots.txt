@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://askbrand.github.io/sitemap.xml
+Sitemap: https://askbrand.github.io/sitemap1.xml
