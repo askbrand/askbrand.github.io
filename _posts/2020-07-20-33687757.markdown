@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "매직 스네이크큐브/수학교구" 
+description: 매직 스네이크큐브/수학교구 ..
+date: 2020-07-20 14:19:19 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2017/08/09/0/2/3389928e-537b-4d08-af82-71cc5585ea73.jpg 
+linkUrl: http://me2.do/IgtmfLPu 
+categories: [1004] 
+color: BD24A9 
+price: 7820 
+author: brandMaster 
+cont:  
+---
+ 

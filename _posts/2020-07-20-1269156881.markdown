@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "우리는 인사를 했고 평생 함께할 거야, 곰곰" 
+description: 우리는 인사를 했고 평생 함 ..
+date: 2020-07-20 14:19:19 
+img: https://static.coupangcdn.com/image/vendor_inventory/f2af/3cac496730ef651e6fa0a50a47c2c2a9ee3131e2c17eb094fe2020c9c382.jpg 
+linkUrl: http://me2.do/xXQ6l2H0 
+categories: [1006] 
+color: F361A6 
+price: 13500 
+author: brandMaster 
+cont: <br/> 너무잘산것같아요<br/>좋은책입니다<br/> 
+---
+ 
