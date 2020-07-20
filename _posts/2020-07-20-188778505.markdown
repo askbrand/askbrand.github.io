@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "곰곰 간편한 미숫가루 스틱, 24g, 50개" 
+description: 곰곰 간편한 미숫가루 스틱, ..
+date: 2020-07-20 20:15:12 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/05/31/4409027430/3ecc3094-e5ca-4cb4-ad28-a9dfdd7e2338.jpg 
+linkUrl: http://me2.do/5cZsfvaE 
+categories: [1003] 
+color: A566FF 
+price: 10950 
+author: brandMaster 
+cont: <br/> #1회용 스틱포장이라서<br/>#가격<br/>#내용량<br/>#배송완료일<br/>#상품명<br/>#상품주문일<br/>#식감<br/>#영양정보<br/>#용기(포장)재질<br/>#용량 및 포장단위<br/>#원재료명 및 함량<br/>#유통전문 판매원<br/>#제조원<br/>#직장출근에도 피크닉에도 휴대하기 좋아요<br/>24g 50개 box<br/> 
+---
+ 
