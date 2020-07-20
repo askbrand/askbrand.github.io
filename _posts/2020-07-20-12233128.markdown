@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "간단메모 미니칠판/미니보드/게시판/안내판/, 본상품색상선택, 본상품수량선택" 
+description: 간단메모 미니칠판/미니보드/ ..
+date: 2020-07-20 17:15:11 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2016/12/27/23/9/a44ad3ed-e445-4b10-af11-f6a3807c0a48.jpg 
+linkUrl: http://me2.do/xUJNb2Cr 
+categories: [1004] 
+color: 353535 
+price: 15310 
+author: brandMaster 
+cont:  
+---
+ 
