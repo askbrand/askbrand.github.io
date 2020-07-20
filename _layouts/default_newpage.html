@@ -10,8 +10,8 @@ layout: compress
 	{% include search_form.html %}
 </div>
 <div id="container" style="text-align: left;">
-{% assign sorted_pages = site.pages | sort:"date" %}
-{% for page in sorted_pages.pages %}
+{% assign sorted = site.page | sort: 'date') | reverse %}
+{% for page in sorted %}
 	  {% if forloop.index <= 50 %}
 	  	{% if page.img != null %} 			
 			<div class="section">
