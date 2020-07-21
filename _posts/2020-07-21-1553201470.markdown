@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "코멧 NBR 16mm 요가매트, 와인" 
+description: 코멧 NBR 16mm 요가매 ..
+date: 2020-07-21 14:15:13 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/01/02/4246583506/2d00897b-fc0e-4873-8500-214006b8800b.jpg 
+linkUrl: http://me2.do/xDYSpUvr 
+categories: [1002] 
+color: 4A148C 
+price: 12800 
+author: brandMaster 
+cont: <br/> 살짝 패인 부분이 있긴한데요.<br/> 도톰하고 쿠션은 좋아서 운동할때 편해요<br/> 
+---
+ 
