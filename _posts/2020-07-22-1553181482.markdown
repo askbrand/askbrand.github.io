@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 코멧 홈 퓨어 마이크로 필터 샤워기, 1개" 
+description: 쿠팡 브랜드 - 코멧 홈 퓨 ..
+date: 2020-07-22 10:15:12 
+img: https://static.coupangcdn.com/image/retail/images/81066815385658-45d78612-e2f9-4f7a-8e5a-c93ae4f999ef.jpg 
+linkUrl: http://me2.do/xpVUj5MF 
+categories: [1002] 
+color: 43A047 
+price: 16230 
+author: brandMaster 
+cont: <br/> 코멧 홈 퓨어 마이크로 필터 좋네요  만족합니다<br/> 
+---
+ 
