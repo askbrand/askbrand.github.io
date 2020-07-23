@@ -1,6 +1,6 @@
 {% assign sorted_pages = (site.pages | sort:"date") | reverse %}
 {% for page in sorted_pages %}
-	  {% if forloop.index <= 50 %}
+	  {% if forloop.index <= 30 %}
 	  	{% if page.img != null %} 			
 			<div class="section">
 				<div class="figure">
