@@ -1,0 +1,22 @@
+{% assign sorted_pages = (site.pages | sort:"date") | reverse %}
+{% for page in sorted_pages %}
+	  {% if forloop.index <= 50 %}
+	  	{% if page.img != null %} 			
+			<div class="section">
+				<div class="figure">
+			    	<a href="{{ site.url }}{{ page.url }}">
+			    		<p><img alt="{{ page.title }}" class="scaled" src="{{ page.img }}"  ></p>			    	
+			    	</a>
+				</div>	
+				<a href="{{ site.url }}{{ page.url }}">
+					<p><h2><b>{{ page.title }}</b></h3></h2>
+					<p>{{ page.date }} </p>
+					<p>{{ page.description }}</p>
+				</a>
+			</div>
+			<hr/>
+	  	 {% endif %}	  
+	  {% else %}
+	  	{% break %}
+	  {% endif %}
+  {% endfor %}
